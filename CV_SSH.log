@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.9)  14 JUL 2020 18:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.9)  10 AUG 2020 16:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -444,10 +444,6 @@ Package xcolor Warning: Incompatible color definition on input line 86.
 
 Package xcolor Warning: Incompatible color definition on input line 108.
 
-
-LaTeX Font Warning: Font shape `LUC/nanummj/bx/sc' undefined
-(Font)              using `LUC/nanummj/bx/n' instead on input line 110.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -496,29 +492,91 @@ Overfull \hbox (13.11945pt too wide) in paragraph at lines 172--172
 r Al-ge-bra So-ci-ety Con-fer-ence 2014\T1/cmr/m/n/10.95 , Sungkyunkwan
  []
 
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 211.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 211.
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 212.
+
+
+Package xcolor Warning: Incompatible color definition on input line 234.
+
+
+Package xcolor Warning: Incompatible color definition on input line 254.
+
+
+Package xcolor Warning: Incompatible color definition on input line 262.
+
+Package marginnote Info: Margin note 4.1 is on absolute page 6 on input line 26
+6.
+Package marginnote Info: right page because not two side mode on input line 266
+.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 266.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.266 \mypapers
+                [1]
+Package marginnote Info: Using workaround for absolute page number on input lin
+e 266.
+Package marginnote Info: Margin note 6.1 is on absolute page 6 on input line 26
+6.
+Package marginnote Info: right page because not two side mode on input line 266
+.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 266.
+Package marginnote Info: Margin note 6.2 is on absolute page 6 on input line 26
+6.
+Package marginnote Info: right page because not two side mode on input line 266
+.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 266.
+Package marginnote Info: Margin note 6.3 is on absolute page 6 on input line 26
+6.
+Package marginnote Info: right page because not two side mode on input line 266
+.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 266.
+Package marginnote Info: Margin note 6.4 is on absolute page 6 on input line 26
+6.
+Package marginnote Info: right page because not two side mode on input line 266
+.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 266.
+
+Overfull \hbox (13.11945pt too wide) in paragraph at lines 286--286
+\T1/cmr/m/n/10.95 trix Func-tions'', \T1/cmr/m/it/10.95 In-ter-na-tional Lin-ea
+r Al-ge-bra So-ci-ety Con-fer-ence 2014\T1/cmr/m/n/10.95 , Sungkyunkwan
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.286 \mypresent
+                 [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 320.
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.320 \end{document}
+                     [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 320.
  (./CV_SSH.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 211.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 211.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 320.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 320.
 Package rerunfilecheck Info: File `CV_SSH.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 320.
  ) 
 Here is how much of TeX's memory you used:
- 7334 strings out of 480608
- 110542 string characters out of 5905573
- 395089 words of memory out of 5000000
- 23017 multiletter control sequences out of 15000+600000
- 562333 words of font info for 107 fonts, out of 8000000 for 9000
+ 7347 strings out of 480608
+ 110631 string characters out of 5905573
+ 395168 words of memory out of 5000000
+ 23018 multiletter control sequences out of 15000+600000
+ 561736 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,9n,39p,281b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,9n,39p,281b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/usr/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/
 usr/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/usr/t
 exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texliv
@@ -573,15 +631,16 @@ ts/type1/public/nanumtype1/nanummjmd4.pfb><c:/usr/texlive/2020/texmf-dist/fonts
 /type1/public/nanumtype1/nanummjmd5.pfb><c:/usr/texlive/2020/texmf-dist/fonts/t
 ype1/public/nanumtype1/nanummjmd6.pfb><c:/usr/texlive/2020/texmf-dist/fonts/typ
 e1/public/nanumtype1/nanummjmd7.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1
-/public/cm-super/sfbx1728.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/publi
-c/cm-super/sfrm0800.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/public/cm-s
-uper/sfrm1095.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
-fti1095.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfxc109
-5.pfb>
-Output written on CV_SSH.pdf (3 pages, 2125355 bytes).
+/public/cm-super/sfbx1095.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/publi
+c/cm-super/sfbx1440.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/public/cm-s
+uper/sfbx1728.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
+frm0800.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm109
+5.pfb><c:/usr/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+
+Output written on CV_SSH.pdf (6 pages, 2152941 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 210 compressed objects within 3 object streams
- 17 named destinations out of 1000 (max. 500000)
+ 306 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 30 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
