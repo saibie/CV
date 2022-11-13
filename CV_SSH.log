@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.21)  13 NOV 2022 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.21)  13 NOV 2022 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -345,32 +345,32 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 (./CV_SSH.aux)
 \openout1 = `CV_SSH.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 156.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 184.
 LaTeX Font Info:    Trying to load font information for LUC+nanummj on input li
-ne 156.
+ne 184.
 
 (c:/usr/texlive/2021/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 156.
-LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
 
 (c:/usr/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -428,7 +428,7 @@ e
 * \@reversemargintrue
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 156.
+Package hyperref Info: Link coloring ON on input line 184.
 (c:/usr/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -440,169 +440,169 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count278
 )
-LaTeX Info: Redefining \ref on input line 156.
-LaTeX Info: Redefining \pageref on input line 156.
-LaTeX Info: Redefining \nameref on input line 156.
+LaTeX Info: Redefining \ref on input line 184.
+LaTeX Info: Redefining \pageref on input line 184.
+LaTeX Info: Redefining \nameref on input line 184.
 (./CV_SSH.out) (./CV_SSH.out)
 \@outlinefile=\write3
 \openout3 = `CV_SSH.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 223.
+Package xcolor Warning: Incompatible color definition on input line 252.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 225.
+(Font)              <10.95> on input line 254.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 225.
+(Font)              <8> on input line 254.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 225.
+(Font)              <6> on input line 254.
 
-Package xcolor Warning: Incompatible color definition on input line 235.
+Package xcolor Warning: Incompatible color definition on input line 264.
 
 
-Package xcolor Warning: Incompatible color definition on input line 239.
+Package xcolor Warning: Incompatible color definition on input line 268.
 
-Package marginnote Info: Margin note 1.1 is on absolute page 1 on input line 24
-3.
-Package marginnote Info: right page because not two side mode on input line 243
+Package marginnote Info: Margin note 1.1 is on absolute page 1 on input line 27
+2.
+Package marginnote Info: right page because not two side mode on input line 272
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 243.
-Package marginnote Info: Margin note 1.2 is on absolute page 2 on input line 24
-3.
-Package marginnote Info: right page because not two side mode on input line 243
+Package marginnote Info: xpos seems to be 99.58464pt on input line 272.
+Package marginnote Info: Margin note 1.2 is on absolute page 2 on input line 27
+2.
+Package marginnote Info: right page because not two side mode on input line 272
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 243.
-Package marginnote Info: Margin note 1.3 is on absolute page 2 on input line 24
-3.
-Package marginnote Info: right page because not two side mode on input line 243
+Package marginnote Info: xpos seems to be 99.58464pt on input line 272.
+Package marginnote Info: Margin note 1.3 is on absolute page 2 on input line 27
+2.
+Package marginnote Info: right page because not two side mode on input line 272
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 243.
-Package marginnote Info: Margin note 1.4 is on absolute page 2 on input line 24
-3.
-Package marginnote Info: right page because not two side mode on input line 243
+Package marginnote Info: xpos seems to be 99.58464pt on input line 272.
+Package marginnote Info: Margin note 1.4 is on absolute page 2 on input line 27
+2.
+Package marginnote Info: right page because not two side mode on input line 272
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 243.
-Package marginnote Info: Margin note 1.5 is on absolute page 2 on input line 24
-3.
-Package marginnote Info: right page because not two side mode on input line 243
+Package marginnote Info: xpos seems to be 99.58464pt on input line 272.
+Package marginnote Info: Margin note 1.5 is on absolute page 2 on input line 27
+2.
+Package marginnote Info: right page because not two side mode on input line 272
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 243.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 272.
 [1
 
 {c:/usr/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 269.
+(Font)              <5> on input line 285.
 
-Overfull \hbox (13.11945pt too wide) in paragraph at lines 269--269
+Overfull \hbox (13.11945pt too wide) in paragraph at lines 285--285
 \T1/cmr/m/n/10.95 trix Func-tions'', \T1/cmr/m/it/10.95 In-ter-na-tional Lin-ea
 r Al-ge-bra So-ci-ety Con-fer-ence 2014\T1/cmr/m/n/10.95 , Sungkyunkwan
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 320.
+Package xcolor Warning: Incompatible color definition on input line 333.
 
 
-Package xcolor Warning: Incompatible color definition on input line 336.
+Package xcolor Warning: Incompatible color definition on input line 349.
 
 
-Package xcolor Warning: Incompatible color definition on input line 339.
+Package xcolor Warning: Incompatible color definition on input line 352.
 
-Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 34
-3.
-Package marginnote Info: right page because not two side mode on input line 343
+Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 35
+6.
+Package marginnote Info: right page because not two side mode on input line 356
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 343.
-Package marginnote Info: Margin note 4.2 is on absolute page 6 on input line 34
-3.
-Package marginnote Info: right page because not two side mode on input line 343
+Package marginnote Info: xpos seems to be 99.58464pt on input line 356.
+Package marginnote Info: Margin note 4.2 is on absolute page 6 on input line 35
+6.
+Package marginnote Info: right page because not two side mode on input line 356
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 343.
-Package marginnote Info: Margin note 4.3 is on absolute page 6 on input line 34
-3.
-Package marginnote Info: right page because not two side mode on input line 343
+Package marginnote Info: xpos seems to be 99.58464pt on input line 356.
+Package marginnote Info: Margin note 4.3 is on absolute page 6 on input line 35
+6.
+Package marginnote Info: right page because not two side mode on input line 356
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 343.
-Package marginnote Info: Margin note 4.4 is on absolute page 6 on input line 34
-3.
-Package marginnote Info: right page because not two side mode on input line 343
+Package marginnote Info: xpos seems to be 99.58464pt on input line 356.
+Package marginnote Info: Margin note 4.4 is on absolute page 6 on input line 35
+6.
+Package marginnote Info: right page because not two side mode on input line 356
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 343.
-Package marginnote Info: Margin note 4.5 is on absolute page 6 on input line 34
-3.
-Package marginnote Info: right page because not two side mode on input line 343
+Package marginnote Info: xpos seems to be 99.58464pt on input line 356.
+Package marginnote Info: Margin note 4.5 is on absolute page 6 on input line 35
+6.
+Package marginnote Info: right page because not two side mode on input line 356
 .
-Package marginnote Info: xpos seems to be 99.58464pt on input line 343.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 356.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.344 
+l.357 
        [1]
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 344.
+e 357.
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
 
  []
 
 
-Overfull \hbox (22.68965pt too wide) in paragraph at lines 351--351
+Overfull \hbox (22.68965pt too wide) in paragraph at lines 364--364
 []\T1/cmr/m/n/10.95 Development of a Ser-vice Plat-form for Oph-thal-mol-ogy Di
 s-ease Di-ag-no-sis (Co-investigator) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 364--364
 
  []
 
@@ -610,9 +610,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.351 \myprojseng
+l.364 \myprojseng
                   [2]
-Overfull \hbox (13.11945pt too wide) in paragraph at lines 359--359
+Overfull \hbox (13.11945pt too wide) in paragraph at lines 372--372
 \T1/cmr/m/n/10.95 trix Func-tions'', \T1/cmr/m/it/10.95 In-ter-na-tional Lin-ea
 r Al-ge-bra So-ci-ety Con-fer-ence 2014\T1/cmr/m/n/10.95 , Sungkyunkwan
  []
@@ -621,16 +621,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.362 \myposter
+l.375 \myposter
                 [3] [4] (./CV_SSH.aux)
 Package rerunfilecheck Info: File `CV_SSH.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9950 strings out of 478994
- 146000 string characters out of 5860195
- 472007 words of memory out of 5000000
- 27205 multiletter control sequences out of 15000+600000
+ 9951 strings out of 478994
+ 146010 string characters out of 5860195
+ 473678 words of memory out of 5000000
+ 27206 multiletter control sequences out of 15000+600000
  433729 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,9n,77p,281b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
