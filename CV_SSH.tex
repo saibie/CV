@@ -150,8 +150,36 @@
 	$\circ$ Support : Korea Institute for Advancement of Technology
 }
 
+%================
+% PRESENT
+%================
+\newcommand\mypresent{
+	\begin{itemize}[leftmargin=*]
+		\item ``Ophthalmic Disease Diagnosis Based on Convolutional Neural Network'', {\it KSIAM 2020 Annual Meeting}, KAL Hotel in Jeju, Korea, Nov. 12--15, 2020.
+		\item ``Convergence of a Modified Newton Method for a Matrix Polynomial Equation Arising in Stochastic Problems'', {\it Numerical Analysis and Scientific Computation with Applications 2018}, Elite City Resort in Kalamata, Greece, Jul. 2--6, 2018.
+		\item ``Convergence of Newton Iterations for Order-Convex Matrix Functions'', {\it SIAM Conference on Applied Linear Algebra}, Hyatt Regency Atlanta, USA, Oct. 26-30, 2015.
+		\item ``The Existence and Convergence of Two Iterations for Differentiable Order-Convex Matrix Functions'', {\it The 2014 International Conference on Tensors and Matrices and their Applications}, Suzhou, China, Dec. 16--19, 2014.
+		\item ``The Newton and the Fixed Point Iterations for Differentiable Order-Convex Matrix Functions'', {\it International Linear Algebra Society Conference 2014}, Sungkyunkwan University, Korea, Aug. 6--9, 2014.
+		\item ``The Monotone Convergence of Newton’s Method for Differentiable Convex Matrix Functions'', {\it Hakata Workshop 2014}, Kyushu, Japan, Feb. 8, 2014.
+		\item ``The Elementwise Convex Condition for Differentiable Matrix Functions'', {\it AKOOS-PNU}, Pusan National University, Korea, Feb. 5--7, 2014.
+		\item ``Newton’s method for solving a quadratic matrix equation with special coefficient matrices'', {\it KOOK-TAPU Joint Seminar 2013}, Osaka City University, Japan, Jul. 22--26, 2013.
+		
+	\end{itemize}
+}
 
+%================
+% POSTER
+%================
+\newcommand\myposter{
+	\begin{itemize}[leftmargin=*]
+		\item ``Properties of Nonnegative, Irreducible, and $M$-Matrices'', {\it The Asian Mathematical Conference 2013}, BEXCO, Korea, Jun. 30--Jul. 4, 2013.
+	\end{itemize}
+}
 
+%================
+% KOREAN
+%================
+\def\WithKorean{1}
 
 \begin{document}
 
@@ -200,6 +228,7 @@
 %\emph{연구원}, 부산의료수학센터, 국가수리과학연구소 % Current or most recent employment position
 
 %------------------------------------------------
+\if\WithKorean1
 \profile
 
 %\section*{연구분야}
@@ -253,28 +282,12 @@
 % PRESENTATIONS
 %================
 \renewcommand\labelitemi{\tiny$\bullet$}
-\newcommand\mypresent{
-	\begin{itemize}[leftmargin=*]
-		\item ``Ophthalmic Disease Diagnosis Based on Convolutional Neural Network'', {\it KSIAM 2020 Annual Meeting}, KAL Hotel in Jeju, Korea, Nov. 12--15, 2020.
-		\item ``Convergence of a Modified Newton Method for a Matrix Polynomial Equation Arising in Stochastic Problems'', {\it Numerical Analysis and Scientific Computation with Applications 2018}, Elite City Resort in Kalamata, Greece, Jul. 2--6, 2018.
-		\item ``Convergence of Newton Iterations for Order-Convex Matrix Functions'', {\it SIAM Conference on Applied Linear Algebra}, Hyatt Regency Atlanta, USA, Oct. 26-30, 2015.
-		\item ``The Existence and Convergence of Two Iterations for Differentiable Order-Convex Matrix Functions'', {\it The 2014 International Conference on Tensors and Matrices and their Applications}, Suzhou, China, Dec. 16--19, 2014.
-		\item ``The Newton and the Fixed Point Iterations for Differentiable Order-Convex Matrix Functions'', {\it International Linear Algebra Society Conference 2014}, Sungkyunkwan University, Korea, Aug. 6--9, 2014.
-		\item ``The Monotone Convergence of Newton’s Method for Differentiable Convex Matrix Functions'', {\it Hakata Workshop 2014}, Kyushu, Japan, Feb. 8, 2014.
-		\item ``The Elementwise Convex Condition for Differentiable Matrix Functions'', {\it AKOOS-PNU}, Pusan National University, Korea, Feb. 5--7, 2014.
-		\item ``Newton’s method for solving a quadratic matrix equation with special coefficient matrices'', {\it KOOK-TAPU Joint Seminar 2013}, Osaka City University, Japan, Jul. 22--26, 2013.
-		
-	\end{itemize}
-}
 \mypresent
 
 \subsection*{포스터 발표}
-\newcommand\myposter{
-	\begin{itemize}[leftmargin=*]
-		\item ``Properties of Nonnegative, Irreducible, and $M$-Matrices'', {\it The Asian Mathematical Conference 2013}, BEXCO, Korea, Jun. 30--Jul. 4, 2013.
-	\end{itemize}
-}
 \myposter
+
+\fi
 
 \newpage\setcounter{page}{1}
 
