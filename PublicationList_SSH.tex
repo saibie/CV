@@ -1,0 +1,39 @@
+\documentclass[11pt]{article} % Default document font size
+\usepackage{kotex}
+\usepackage{enumitem}
+
+\input{structure.tex} % Include the file specifying the document structure and styling
+
+\renewcommand{\baselinestretch}{1.3}
+
+\newcommand\profileeng{
+	{\LARGE\bfseries Seo, Sang-hyup (서상협)} % Name
+	\bigskip\bigskip\medskip % Whitespace
+	
+	48973, No.806, 15, Bosu-daero 56beon-gil, Jung-gu, Busan, Republic of Korea % Address
+	\medskip % Whitespace
+	
+	%Telephone : 051-257-8021(102)\\ % Phone number
+	Mobile : 010-4545-9199 % Mobile number
+	\medskip % Whitespace
+	
+	E-mail: \href{mailto:saibie1677@gmail.com}{saibie1677@gmail.com}\\ % Email address
+}
+
+%================
+% PAPER
+%================
+\newcommand\mypapers{
+	\input{CommonSourcePublicationList.tex}
+}
+
+
+\begin{document}
+
+\profileeng
+
+\section*{Publications}
+
+\mypapers
+
+\end{document}
