@@ -173,11 +173,17 @@
 	\end{itemize}
 }
 
+\def\KoreanMode{1}
+
+%================
+% 0 : Korean and English
+% 1 : Korean
+% 2 : English
+%================
+
 %================
 % KOREAN
 %================
-\def\WithKorean{1}
-
 \begin{document}
 
 %----------------------------------------------------------------------------------------
@@ -225,7 +231,8 @@
 %\emph{연구원}, 부산의료수학센터, 국가수리과학연구소 % Current or most recent employment position
 
 %------------------------------------------------
-\if\WithKorean1
+\if\KoreanMode2
+\else
 \profile
 
 %\section*{연구분야}
@@ -286,6 +293,8 @@
 
 \fi
 
+\if\KoreanMode1
+\else
 \newpage\setcounter{page}{1}
 
 %\textsc{url}: \href{http://www.ias.edu/spfeatures/einstein/}{http://www.ias.edu/spfeatures/einstein/}\\ % Academic/personal website
@@ -397,7 +406,7 @@
 %	\scriptsize
 %	Last updated: \today~~\raisebox{-0.5pt}{\textbullet}~~\href{https://www.LaTeXTemplates.com}{https://www.LaTeXTemplates.com}
 %\end{center}
-
+\fi
 %----------------------------------------------------------------------------------------
 
 \end{document}
