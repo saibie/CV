@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.21)  20 NOV 2022 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.21)  31 JAN 2023 14:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,24 +448,24 @@ LaTeX Info: Redefining \nameref on input line 181.
 \openout3 = `CV_SSH.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 330.
+Package xcolor Warning: Incompatible color definition on input line 249.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 332.
+(Font)              <10.95> on input line 251.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 332.
+(Font)              <8> on input line 251.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 332.
+(Font)              <6> on input line 251.
 
-Package xcolor Warning: Incompatible color definition on input line 346.
+Package xcolor Warning: Incompatible color definition on input line 261.
 
 
-Package xcolor Warning: Incompatible color definition on input line 349.
+Package xcolor Warning: Incompatible color definition on input line 265.
 
 (./CommonSourcePublicationList.tex
 Package marginnote Info: Margin note 1.1 is on absolute page 1 on input line 1.
@@ -491,6 +491,83 @@ Package marginnote Info: xpos seems to be 99.58464pt on input line 5.
 ) [1
 
 {c:/usr/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+
+ []
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 282.
+
+Overfull \hbox (13.11945pt too wide) in paragraph at lines 282--282
+\T1/cmr/m/n/10.95 trix Func-tions'', \T1/cmr/m/it/10.95 In-ter-na-tional Lin-ea
+r Al-ge-bra So-ci-ety Con-fer-ence 2014\T1/cmr/m/n/10.95 , Sungkyunkwan
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 330.
+
+
+Package xcolor Warning: Incompatible color definition on input line 346.
+
+
+Package xcolor Warning: Incompatible color definition on input line 349.
+
+(./CommonSourcePublicationList.tex
+Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 1.
+
+Package marginnote Info: right page because not two side mode on input line 1.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 1.
+Package marginnote Info: Margin note 4.2 is on absolute page 6 on input line 2.
+
+Package marginnote Info: right page because not two side mode on input line 2.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 2.
+Package marginnote Info: Margin note 4.3 is on absolute page 6 on input line 3.
+
+Package marginnote Info: right page because not two side mode on input line 3.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 3.
+Package marginnote Info: Margin note 4.4 is on absolute page 6 on input line 4.
+
+Package marginnote Info: right page because not two side mode on input line 4.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 4.
+Package marginnote Info: Margin note 4.5 is on absolute page 6 on input line 5.
+
+Package marginnote Info: right page because not two side mode on input line 5.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 5.
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.354 
+       [1]
+Package marginnote Info: Using workaround for absolute page number on input lin
+e 354.
+
 Underfull \hbox (badness 10000) in paragraph at lines 361--361
 
  []
@@ -531,44 +608,102 @@ Underfull \hbox (badness 10000) in paragraph at lines 361--361
 
  []
 
-[2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 369.
-
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.361 \myprojseng
+                  [2]
 Overfull \hbox (13.11945pt too wide) in paragraph at lines 369--369
 \T1/cmr/m/n/10.95 trix Func-tions'', \T1/cmr/m/it/10.95 In-ter-na-tional Lin-ea
 r Al-ge-bra So-ci-ety Con-fer-ence 2014\T1/cmr/m/n/10.95 , Sungkyunkwan
  []
 
-[3] [4] (./CV_SSH.aux)
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.369 \mypresent
+                 [3] [4] (./CV_SSH.aux)
 Package rerunfilecheck Info: File `CV_SSH.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9819 strings out of 478994
- 143860 string characters out of 5860195
- 472707 words of memory out of 5000000
- 27136 multiletter control sequences out of 15000+600000
- 415472 words of font info for 50 fonts, out of 8000000 for 9000
+ 9957 strings out of 478994
+ 146196 string characters out of 5860195
+ 471787 words of memory out of 5000000
+ 27207 multiletter control sequences out of 15000+600000
+ 433729 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,9n,77p,281b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/usr/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/
-usr/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/usr/t
-exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texliv
-e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/usr/texlive/2021
-/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb><c:/usr/texlive/2021/t
-exmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/usr/texlive/2021/tex
-mf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb><c:/usr/texlive/2021/texmf
--dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/usr/texlive/2021/texmf-dist/
-fonts/type1/public/cm-super/sfbx1440.pfb><c:/usr/texlive/2021/texmf-dist/fonts/
-type1/public/cm-super/sfbx1728.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/
-public/cm-super/sfrm0800.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public
-/cm-super/sfrm1095.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/cm-su
-per/sfti1095.pfb>
-Output written on CV_SSH.pdf (4 pages, 179139 bytes).
+{c:/usr/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/
+usr/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/usr/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/usr/texliv
+e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/usr/texlive/202
+1/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/usr/texlive/2021/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/usr/texlive/2021/texmf-
+dist/fonts/type1/public/nanumtype1/nanummjbad.pfb><c:/usr/texlive/2021/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjbb1.pfb><c:/usr/texlive/2021/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/usr/texlive/2021/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjbb8.pfb><c:/usr/texlive/2021/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjbb9.pfb><c:/usr/texlive/2021/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjbbb.pfb><c:/usr/texlive/2021/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjbbc.pfb><c:/usr/texlive/2021/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanummjbbd.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjbc0.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjbc1.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/pub
+lic/nanumtype1/nanummjbc2.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjbc5.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjbc7.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/na
+numtype1/nanummjbc8.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjbcc.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjbd1.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtyp
+e1/nanummjbd2.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjbd3.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjbd4.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nan
+ummjbd5.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjbd6.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+mac.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjma
+d.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.
+pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pf
+b><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb>
+<c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c
+:/usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/
+usr/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/us
+r/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/usr/
+texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/usr/te
+xlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/usr/texl
+ive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/usr/texliv
+e/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/usr/texlive/
+2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/usr/texlive/20
+21/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/usr/texlive/2021
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/usr/texlive/2021/t
+exmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/usr/texlive/2021/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/usr/texlive/2021/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/usr/texlive/2021/texmf-d
+ist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/usr/texlive/2021/texmf-dis
+t/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/usr/texlive/2021/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/usr/texlive/2021/texmf-dist/fo
+nts/type1/public/nanumtype1/nanummjmc9.pfb><c:/usr/texlive/2021/texmf-dist/font
+s/type1/public/nanumtype1/nanummjmcc.pfb><c:/usr/texlive/2021/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjmcd.pfb><c:/usr/texlive/2021/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjmce.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjmd0.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjmd1.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjmd3.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjmd4.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjmd5.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/n
+anumtype1/nanummjmd6.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/nan
+umtype1/nanummjmd7.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/cm-su
+per/sfbx1095.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sf
+bx1440.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728
+.pfb><c:/usr/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><
+c:/usr/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/usr
+/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on CV_SSH.pdf (7 pages, 2388797 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 329 PDF objects out of 1000 (max. 8388607)
+ 253 compressed objects within 3 object streams
+ 29 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
