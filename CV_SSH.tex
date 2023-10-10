@@ -35,6 +35,21 @@
 \renewcommand{\baselinestretch}{1.3}
 
 %================
+% PREDEFINITION
+%================
+\newcommand\careerline[4]{
+	\subsection*{#1 \hfill #2 -- #3}
+	$\circ$ #4}
+
+\newcommand\mycareer{}
+\newcommand\mycareereng{}
+
+\newcommand\addcareer[6]{
+	\edef\mycareer{\unexpanded\expandafter{\mycareer \careerline{#1}{#3}{#4}{#5}}}
+	\edef\mycareereng{\unexpanded\expandafter{\mycareereng \careerline{#2}{#3}{#4}{#6}}}
+}
+
+%================
 % EDUCATION
 %================
 \newcommand\myedu{
@@ -52,30 +67,14 @@
 	$\circ$ Thesis : The Numerical Method for Solving a Quadratic Matrix Equation with Special Coefficient Matrices
 }
 
+
 %================
 % CAREER
 %================
-\newcommand\mycareer{
-	\subsection*{(주)스마트소셜 \hfill 2023.02 -- \phantom{2023.00}}
-	$\circ$ 선임연구원 / 팀장
-	\subsection*{국가수리과학연구소 \hfill 2019.10 -- 2022.09}
-	$\circ$ 박사후연구원
-	\subsection*{부산대학교 \hfill 2019.03 -- 2019.09}
-	$\circ$ 박사후연구원
-	\subsection*{(주)스마트소셜 \hfill 2017.03 -- 2017.10}
-	$\circ$ 사원 : 데이터베이스 분석, 상품 및 과제 기획
-}
-\newcommand\mycareereng{
-	\subsection*{Smart Social, Inc. \hfill 2023.02 -- \phantom{2023.00}}
-	$\circ$ Senior Researcher
-	\subsection*{National Institute for Mathematical Sciences \hfill 2019.10 -- 2022.09}
-	$\circ$ Post Doctor
-	\subsection*{Pusan National University \hfill 2019.03 -- 2019.09}
-	$\circ$ Post Doctor
-	\subsection*{Smart Social, Inc. \hfill 2017.03 -- 2017.10}
-	$\circ$ Staff : Analysis for Database, Product and Project Planning
-}
-
+\addcareer{(주)스마트소셜}{Smart Social, Inc.}{2023.02}{\phantom{0000.00}}{선임연구원 / 팀장}{Senior Researcher}
+\addcareer{국가수리과학연구소}{National Institute for Mathematical Sciences}{2019.10}{2022.09}{박사후연구원}{Post Doctor}
+\addcareer{부산대학교}{Pusan National University}{2019.03}{2019.09}{박사후연구원}{Post Doctor}
+\addcareer{(주)스마트소셜}{Smart Social, Inc.}{2017.03}{2017.10}{사원 : 데이터베이스 분석, 상품 및 과제 기획}{Staff : Analysis for Database, Product and Project Planning}
 
 %================
 % PAPER
@@ -83,6 +82,7 @@
 \newcommand\mypapers{
 	\input{CommonSourcePublicationList.tex}
 }
+
 
 %================
 % PROJECTS
@@ -138,7 +138,6 @@
 	$\circ$ Fund : \$225,000 \\
 	$\circ$ Period : 2020.04 -- 2021.12 \\
 	$\circ$ Support : Ministry of Agriculture, Food and Rural Affairs \\
-	~\\~\\
 	
 	Development of mathematical model for data-based infectious disease outbreak prediction and mitigation strategy analysis (Co-investigator) \\
 	$\circ$ Fund : \$201,398 \\
