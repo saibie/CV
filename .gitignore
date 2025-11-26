@@ -1,0 +1,23 @@
+# LaTeX Build Artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.dvi
+*.nav
+*.snm
+*.vrb
+
+# PDF (보통 소스로 빌드하므로 제외하지만, 최종본 보관용이라면 주석 처리하세요)
+# *.pdf
+
+# Editor/IDE files
+.vscode/
+*.swp
+.DS_Store
+*.bak
